@@ -1,0 +1,22 @@
+{
+  "name": "tech-test-technation",
+  "version": "1.0.0",
+  "description": "Teste tecnico proposto pela technation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --open=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leottx/tech-test-technation.git"
+  },
+  "author": "Leonardo Teixeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leottx/tech-test-technation/issues"
+  },
+  "homepage": "https://github.com/leottx/tech-test-technation#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
