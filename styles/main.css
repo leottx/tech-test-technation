@@ -54,20 +54,10 @@ button {
   padding: 1rem 0 1rem 1rem;
 }
 
-.menu__item.active .menu__item-inner {
-  background-color: #fff;
-  border-radius: 200px 0 0 200px;
-  color: #ff0000;
-}
-
 .menu__link {
   display: flex;
   align-items: baseline;
   gap: 0.75rem;
-}
-
-.menu__item.active .menu__link svg {
-  filter: invert(11%) sepia(96%) saturate(6928%) hue-rotate(358deg) brightness(98%) contrast(112%);
 }
 
 .container__inner {
