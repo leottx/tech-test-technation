@@ -1,0 +1,42 @@
+[
+  {
+      "number": "0001",
+      "taker": "Company A",
+      "issuance": "2023-01-05",
+      "due": "2023-02-05",
+      "payment": "2023-01-10",
+      "value": 150.75,
+      "slip": "./docs/boleto.txt",
+      "nf": "./docs/nfs-e.txt",
+      "status": "paid"
+  },
+  {
+      "number": "0002",
+      "taker": "Company B",
+      "issuance": "2023-01-07",
+      "due": "2023-12-25",
+      "value": 200.50,
+      "slip": "./docs/boleto.txt",
+      "nf": "./docs/nfs-e.txt",
+      "status": "pending"
+  },
+  {
+      "number": "0003",
+      "taker": "Company C",
+      "issuance": "2023-03-10",
+      "due": "2023-04-10",
+      "value": 75.20,
+      "slip": "./docs/boleto.txt",
+      "nf": "./docs/nfs-e.txt",
+      "status": "expired"
+  },
+  {
+      "number": "0004",
+      "taker": "Company D",
+      "issuance": "2023-12-02",
+      "value": 300.00,
+      "slip": "./docs/boleto.txt",
+      "nf": "./docs/nfs-e.txt",
+      "status": "issued"
+  }
+]
